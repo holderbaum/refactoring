@@ -1,4 +1,4 @@
-package org.example;
+package io.holderbaum;
 
 /**
  * Hello world!
